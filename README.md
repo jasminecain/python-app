@@ -5,12 +5,9 @@ This project is built with Python and Django.
 ### Description:
 
 ### Prerequisites
-Anaconda 3.5
+Anaconda Python 3.5.4
 
 ### Spin up
-
-
-
 
 ### Staging
 
